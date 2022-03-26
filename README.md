@@ -1,2 +1,2 @@
 # cutomer segmentation
- use case of K-means to do a cutomer segmentation
+ use case of K-prototypes to do a cutomer segmentation
